@@ -29,6 +29,7 @@ dp[i] =
 ans = sum(dp)
 
 """
+# editorial : https://codeforces.com/blog/entry/131666
 from bisect import bisect_left, bisect_right
 
 for _ in range(int(input())):
